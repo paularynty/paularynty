@@ -1,8 +1,10 @@
 ## Hi friend, nice to see you here! 👋
 
 🌱 I'm Paula Rynty, HR specialist/coach turned designer turned budding programmer.
-<br>💫 Currently studying at Hive Helsinki with a focus on C/C++, Unix, algorithms, and networks 
-<br>🐝 Fostering a buzzing passion for anything where code and visual design meet. 
+
+💫 Currently studying at Hive Helsinki with a focus on C/C++, Unix, algorithms, and networks 
+
+🐝 Fostering a buzzing passion for anything where code and visual design meet. 
 
 I am a multifaceted, ever-evolving doer. My roots lie strongly in coaching multiple different teams for customer success
 <br>and overall better work performance, as well as copywriting and design for strengthening company brand awareness.
