@@ -1,6 +1,6 @@
 ## Hi friend, nice to see you here! 👋
 
-🌱 I'm Paula Rynty, HR specialist/coach turned designer turned budding programmer.
+🌱 I'm Paula Rynty, HR specialist/coach turned designer/copywriter turned budding frontend developer.
 
 💫 Currently studying at [Hive Helsinki](https://www.hive.fi/en/) with a focus on C, C++, Unix, algorithms, and networks.
 
